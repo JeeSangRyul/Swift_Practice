@@ -18,10 +18,5 @@
 ## 📸 Screenshots
 |작성 팝업 뷰|웹사이트 추가 버튼|바텀 시트|글자수 체크|바텀 시트2|
 |---|---|---|---|---|
-|<img width="150" height="300" alt="작성 팝업 뷰" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/e5ae38d9-c547-45ac-b123-ac8ca52a7775">
-|<img width="150" height="300" alt="웹사이트 추가 버튼" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/160d0caa-7aaf-421d-b8a2-bc20691dd760">
-|<img width="150" height="300" alt="바텀 시트" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/8b1ac680-124b-4822-a329-e1a408b2bf7a">
-|<img width="150" height="300" alt="글자수 체크" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/dc299717-81bf-4ef4-ac0a-0d53ff5136fb">
-|<img width="150" height="300" alt="바텀 시트2" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/843d89e8-ae2a-45f5-b382-a92b0afa0381">
-|
+|<img width="150" height="300" alt="작성 팝업 뷰" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/e5ae38d9-c547-45ac-b123-ac8ca52a7775">|<img width="150" height="300" alt="웹사이트 추가 버튼" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/160d0caa-7aaf-421d-b8a2-bc20691dd760">|<img width="150" height="300" alt="바텀 시트" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/8b1ac680-124b-4822-a329-e1a408b2bf7a">|<img width="150" height="300" alt="글자수 체크" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/dc299717-81bf-4ef4-ac0a-0d53ff5136fb">|<img width="150" height="300" alt="바텀 시트2" src="https://github.com/JeeeeSangRyul/Swift_Practice/assets/98386841/843d89e8-ae2a-45f5-b382-a92b0afa0381">|
 
